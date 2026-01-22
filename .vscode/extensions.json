@@ -28,6 +28,7 @@
             "ms-vscode.hexeditor",
         "vscjava.vscode-java-pack", // Java development with Maven archetypes and Fernflower decompiler
         "ms-dotnettools.vscode-dotnet-pack", // .NET development
+            "ms-dotnettools.csdevkit", // Solution explorer support
         "sterben.fpga-support", // Verilog FPGA Support Extension Pack
 
         // IDE Integrations
